@@ -11,3 +11,8 @@ output/
 # IDE
 .vscode/
 .idea/
+
+# Ignora cache de testes
+.pytest_cache/
+__pycache__/
+*.pyc
